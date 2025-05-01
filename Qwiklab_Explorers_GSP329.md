@@ -12,11 +12,11 @@
 
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Awwvision-Cloud-Vision-API-from-a-Kubernetes-Cluster-GSP066/refs/heads/main/qwiklab_explorers_gsp066.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Use-Machine-Learning-APIs-on-Google-Cloud-Challenge-Lab-GSP329-Updated/refs/heads/main/qwiklab_explorers_gsp329.sh
 
-sudo chmod +x qwiklab_explorers_gsp066.sh
+sudo chmod +x qwiklab_explorers_gsp329.sh
 
-./qwiklab_explorers_gsp066.sh
+./qwiklab_explorers_gsp329.sh
 ```
 
 ---
